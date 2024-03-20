@@ -1,0 +1,22 @@
+{
+  "todolist": [
+    {
+      "id": "1",
+      "nama": "makan nasi",
+      "kategori": "makan & minum",
+      "status": "uncomplete"
+    },
+    {
+      "id": "2",
+      "nama": "tidur",
+      "kategori": "Task Pribadi",
+      "status": "uncomplete"
+    },
+    {
+      "id": "3",
+      "nama": "main game",
+      "kategori": "Hiburan",
+      "status": "uncomplete"
+    }
+  ]
+}
